@@ -1,0 +1,14 @@
+@import '../../styles/variables'
+
+.header
+  display: flex
+  flex-direction: column
+  align-items: center
+
+  &__title
+    @extend %title
+    color: $mainColor
+
+  &__description
+    @extend %secondText
+    color: $mainColor
