@@ -12,11 +12,17 @@
 
 # Guide
 > How do I change the background color?
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+------------
+
+
 It's simple, simple, open the file /src/styles/inc/_colors.sass. And change the color in the $background parameters.
 
 > How to change particles?
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+------------
+
+
 Open the index.jsx file and change the value on lines 19 and 20 as you need.
 
 # Build
