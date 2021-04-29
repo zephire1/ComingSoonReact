@@ -7,7 +7,15 @@
 
 ### Install
 ``1) Install repo: git clone https://github.com/zephire1/ComingSoonReact.git``
+
+------------
+
+
 ``2) Install modules: npm install OR yarn install``
+
+------------
+
+
 ``3) Start dev server: npm start``
 
 # Guide
